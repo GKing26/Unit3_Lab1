@@ -1,0 +1,4 @@
+>-- Question 1
+    A while loop goes through something however many times and throws away the loops before it, recursion keeps track of everything unlike a while loop and it remembers all the times it goes through a certain function
+>-- Question 2
+    Its is not a substitution because recursion retains the memory for each function it goes through and is in most cases inefficient to using a while loop and can cause problems in larger programs especially when getting nearer to a recursion limit
